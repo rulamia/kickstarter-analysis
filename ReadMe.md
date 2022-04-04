@@ -5,6 +5,8 @@ The purpose of this analysis is to help Louise’s play Fever get funded through
 
 ## Analysis
 The most likely it is to succeed for a campaign would be in May with a budget of 1000 to 4999. This is deducted by looking at the graphs created and looking for the highest point on the graphs on the success line.
+![](https://github.com/rulamia/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+![](https://github.com/rulamia/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ## Challenges
 A challenge I had was figureing out how to get calculated data to populate in the number successful/failed/cancled fields in the Outcomes Based on Goals sheet. I initially thought you could have a simple statement of "1000<=4999", but I was wrong and you actually need to different statemnts in the COUNTIFS calculation. 
